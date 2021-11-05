@@ -1,0 +1,3 @@
+package es.ulpgc.iftt.model;
+
+public enum OPERATOR {EQUAL, NOT_EQUAL, LESS_THAN, GREATER_THAN, LESS_EQUAL_THAN, GREATER_EQUAL_THAN}
